@@ -1,0 +1,262 @@
+[
+    {
+        "id":0,
+        "name":"Podkarpackie",
+        "products":[
+            {"name":"produkt 1",
+            "imgUrl":"1.jpg"},
+            {"name":"produkt 2",
+            "imgUrl":"3.jpg"},
+            {"name":"produkt 3",
+            "imgUrl":"1.jpg"},
+            {"name":"produkt 4",
+            "imgUrl":"2.jpg"},
+            {"name":"produkt 5",
+            "imgUrl":"3.jpg"},
+            {"name":"produkt 6",
+            "imgUrl":"1.jpg"}
+        ]
+    },    
+    {
+        "id":1,
+        "name":"Małopolskie",
+        "products":[
+            {"name":"produkt 7",
+            "imgUrl":"1.jpg"},
+            {"name":"produkt 8",
+            "imgUrl":"3.jpg"},
+            {"name":"produkt 9",
+            "imgUrl":"3.jpg"},
+            {"name":"produkt 10",
+            "imgUrl":"2.jpg"},
+            {"name":"produkt 11",
+            "imgUrl":"1.jpg"}
+        ]
+    },    
+    {
+        "id":2,
+        "name":"Śląskie",
+        "products":[
+            {"name":"produkt 12",
+            "imgUrl":"3.jpg"},
+            {"name":"produkt 13",
+            "imgUrl":"1.jpg"},
+            {"name":"produkt 14",
+            "imgUrl":"1.jpg"},
+            {"name":"produkt 15",
+            "imgUrl":"3.jpg"},
+            {"name":"produkt 16",
+            "imgUrl":"2.jpg"}
+        ]
+    },
+    {
+        "id":3,
+        "name":"Opolskie",
+        "products":[
+            {"name":"produkt 17",
+            "imgUrl":"2.jpg"},
+            {"name":"produkt 18",
+            "imgUrl":"3.jpg"},
+            {"name":"produkt 19",
+            "imgUrl":"2.jpg"},
+            {"name":"produkt 20",
+            "imgUrl":"1.jpg"},
+            {"name":"produkt 21",
+            "imgUrl":"3.jpg"}
+        ]
+    },
+    {
+        "id":4,
+        "name":"Dolnośląskie",
+        "products":[
+            {"name":"produkt 22",
+            "imgUrl":"1.jpg"},
+            {"name":"produkt 23",
+            "imgUrl":"3.jpg"},
+            {"name":"produkt 24",
+            "imgUrl":"1.jpg"},
+            {"name":"produkt 25",
+            "imgUrl":"2.jpg"},
+            {"name":"produkt 26",
+            "imgUrl":"1.jpg"}
+        ]
+    },
+    {
+        "id":5,
+        "name":"Świętokrzyskie",
+        "products":[
+            {"name":"produkt 27",
+            "imgUrl":"3.jpg"},
+            {"name":"produkt 28",
+            "imgUrl":"2.jpg"},
+            {"name":"produkt 29",
+            "imgUrl":"1.jpg"},
+            {"name":"produkt 30",
+            "imgUrl":"3.jpg"},
+            {"name":"produkt 31",
+            "imgUrl":"1.jpg"}
+        ]
+    },
+    {
+        "id":6,
+        "name":"Lubelskie",
+        "products":[
+            {"name":"produkt 32",
+            "imgUrl":"1.jpg"},
+            {"name":"produkt 33",
+            "imgUrl":"3.jpg"},
+            {"name":"produkt 34",
+            "imgUrl":"1.jpg"},
+            {"name":"produkt 35",
+            "imgUrl":"2.jpg"},
+            {"name":"produkt 36",
+            "imgUrl":"3.jpg"}
+        ]
+    },
+    {
+        "id":7,
+        "name":"Łódźkie",
+        "products":[
+            {"name":"produkt 37",
+            "imgUrl":"3.jpg"},
+            {"name":"produkt 38",
+            "imgUrl":"1.jpg"},
+            {"name":"produkt 39",
+            "imgUrl":"3.jpg"},
+            {"name":"produkt 40",
+            "imgUrl":"2.jpg"},
+            {"name":"produkt 41",
+            "imgUrl":"2.jpg"}
+        ]
+    },
+    {
+        "id":8,
+        "name":"Mazowieckie",
+        "products":[
+            {"name":"produkt 1",
+            "imgUrl":"3.jpg",
+            "badge":"new"},
+            {"name":"produkt 2",
+            "imgUrl":"3.jpg"},
+            {"name":"produkt 3",
+            "imgUrl":"2.jpg",
+            "badge":"new"},
+            {"name":"produkt 4",
+            "imgUrl":"1.jpg"},
+            {"name":"produkt 5",
+            "imgUrl":""}
+        ]
+    },
+    {
+        "id":9,
+        "name":"Wielkopolskie",
+        "products":[
+            {"name":"produkt 1",
+            "imgUrl":"3.jpg"},
+            {"name":"produkt 2",
+            "imgUrl":"1.jpg"},
+            {"name":"produkt 3",
+            "imgUrl":"3.jpg"},
+            {"name":"produkt 4",
+            "imgUrl":"1.jpg"},
+            {"name":"produkt 5",
+            "imgUrl":"2.jpg"}
+        ]
+    },
+    {
+        "id":10,
+        "name":"Lubuskie",
+        "products":[
+            {"name":"produkt 1",
+            "imgUrl":"2.jpg"},
+            {"name":"produkt 2",
+            "imgUrl":"3.jpg"},
+            {"name":"produkt 3",
+            "imgUrl":""},
+            {"name":"produkt 4",
+            "imgUrl":"1.jpg"},
+            {"name":"produkt 5",
+            "imgUrl":"1.jpg"}
+        ]
+    },
+    {
+        "id":11,
+        "name":"Kujawsko-pomorkie",
+        "products":[
+            {"name":"produkt 1",
+            "imgUrl":"2.jpg"},
+            {"name":"produkt 2",
+            "imgUrl":"3.jpg"},
+            {"name":"produkt 3",
+            "imgUrl":""},
+            {"name":"produkt 4",
+            "imgUrl":"1.jpg"},
+            {"name":"produkt 5",
+            "imgUrl":"3.jpg"}
+        ]
+    },
+    {
+        "id":12,
+        "name":"Podlaskie",
+        "products":[
+            {"name":"produkt 1",
+            "imgUrl":""},
+            {"name":"produkt 2",
+            "imgUrl":"2.jpg"},
+            {"name":"produkt 3",
+            "imgUrl":""},
+            {"name":"produkt 4",
+            "imgUrl":"1.jpg"},
+            {"name":"produkt 5",
+            "imgUrl":"1.jpg"}
+        ]
+    },
+    {
+        "id":13,
+        "name":"Zachodnio-pomorskie",
+        "products":[
+            {"name":"produkt 1",
+            "imgUrl":""},
+            {"name":"produkt 2",
+            "imgUrl":"1.jpg"},
+            {"name":"produkt 3",
+            "imgUrl":"2.jpg"},
+            {"name":"produkt 4",
+            "imgUrl":"1.jpg"},
+            {"name":"produkt 5",
+            "imgUrl":""}
+        ]
+    },
+    {
+        "id":14,
+        "name":"Warmińsko-mazurskie",
+        "products":[
+            {"name":"produkt 1",
+            "imgUrl":"2.jpg"},
+            {"name":"produkt 2",
+            "imgUrl":""},
+            {"name":"produkt 3",
+            "imgUrl":"1.jpg"},
+            {"name":"produkt 4",
+            "imgUrl":"1.jpg"},
+            {"name":"produkt 5",
+            "imgUrl":"2.jpg"}
+        ]
+    },
+    {
+        "id":15,
+        "name":"Pomorskie",
+        "products":[
+            {"name":"produkt 1",
+            "imgUrl":""},
+            {"name":"produkt 2",
+            "imgUrl":""},
+            {"name":"produkt 3",
+            "imgUrl":"1.jpg"},
+            {"name":"produkt 4",
+            "imgUrl":"2.jpg"},
+            {"name":"produkt 5",
+            "imgUrl":""}
+        ]
+    }
+]

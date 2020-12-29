@@ -1,0 +1,152 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&display=swap');
+@font-face{
+  font-family:empik;
+  src:url(/font/empikProV-Regular.woff) format("woff");
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family:empik;
+}
+
+path{
+  transition:.2s ease;
+  cursor:pointer;
+}
+path:hover{
+  fill:#dcc699!important;
+  stroke:#dcc699!important;
+}
+
+
+
+body{
+  background-color:#f1f3f7!important;
+}
+.container{
+  overflow:hidden;
+}
+.bgWhite{
+  background:#fff;
+  border-radius: 20px;
+  position:relative;
+}
+
+.topNav{
+  position:sticky;
+  top:0;
+  width:100%;
+  background:#333;
+}
+
+
+/* pictures */
+.pictures > div{
+  height:190px;
+  min-width: 180px;
+  overflow: hidden;
+  background-size:80%;
+  background-repeat:no-repeat;
+  background-position:center;
+  position:relative;
+  margin:0 .5rem;
+}
+
+.pictures{
+  display:flex;
+
+  flex-flow:row;
+  flex-wrap:nowrap;
+  align-items: stretch;
+transition:.2s ease-in-out;
+}
+.screen{
+  height: calc( 100% - 24px );
+  background-size: 90%;
+  background-position:  center ;
+  background-repeat: no-repeat;
+  background-image:url(./img/0.png);
+}
+.pic footer{
+  background-color: #fd0e0eeb;
+  color: #ffecb0;
+  font-size: 13px;
+  height:24px;
+  display:flex;
+  align-items:center;
+  position:relative;
+  padding-left:.5rem;
+}
+.pic footer::after{
+  content:'';
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 24px;
+  height: 24px;
+  background: url(/img/arrow.svg) no-repeat 0 #000;
+  background-size: 15px 13px;
+  background-position: 50%;
+}
+
+.control{
+  position:absolute;
+  top:50%;
+  background: #fff;
+  border: 1px solid #dee1e6;
+  border-left-color: rgb(222, 225, 230);
+  border-left-style: solid;
+  border-left-width: 1px;
+  cursor: pointer;
+  display: block;
+  height: 67px;
+  opacity: 1;
+  position: absolute;
+  transition: all .3s linear;
+  top: 50%;
+  width: 41px;
+  transform: translateY(-50%);
+  margin: 0;
+}
+.arrowLeft{
+  left:0;
+  border-left: 0;
+  border-radius: 0 3px 3px 0;
+  left: -1px;
+  opacity: 1;
+}
+.arrowRight{
+  border-radius: 0 3px 3px 0;
+  left: unset;
+  right:-1px;
+  opacity: 1;
+}
+header{
+  font-weight: 400;
+  color: #000;
+  font-size: 24px;
+  padding: 13px 0 13px 20px;
+}
+
+/* arrows */
+.arrowLeft{
+  display:none;
+}
+
+
+
+
+
+
+
+
+
+
+
+@media all and (min-width: 1400px){
+.container{
+  max-width: 1200px!important;
+}
+}
